@@ -56,3 +56,23 @@ Profundidade e abrangência das pesquisas cientificas
 
 
 
+
+pesquisa qualitativa e para ter maior profundidade a analise (detalhe)
+---
+
+pequisa quantitativa ter maior  abrengencia da analise (abrangencia)
+---
+
+
+
+
+
+
+
+Pesquisa Qualitativa vs Pesquisa Quantitativa
+---
+
+![image](https://github.com/leandroyoo/Estatisticaa/assets/94478634/8950f32e-7beb-426a-a3f2-9d00b2e8c2ec)
+
+
+
