@@ -48,6 +48,10 @@ objetivo principal
 
 
 
+Profundidade e abrangência das pesquisas cientificas
+---
+
+![image](https://github.com/leandroyoo/Estatisticaa/assets/94478634/1a9f642c-fa18-46e6-ad3f-87b124305b7d)
 
 
 
