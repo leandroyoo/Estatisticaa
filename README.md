@@ -58,10 +58,10 @@ Profundidade e abrangência das pesquisas cientificas
 
 
 pesquisa qualitativa e para ter maior profundidade a analise (detalhe)
----
+
 
 pequisa quantitativa ter maior  abrengencia da analise (abrangencia)
----
+
 
 
 
