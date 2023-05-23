@@ -73,6 +73,16 @@ Pesquisa Qualitativa vs Pesquisa Quantitativa
 ---
 
 ![image](https://github.com/leandroyoo/Estatisticaa/assets/94478634/8950f32e-7beb-426a-a3f2-9d00b2e8c2ec)
+..
+---
+..
+---
 
 
+
+
+
+
+Estatística descritiva: conceitos e aplicações: Pesquisa Quantitativa
+--
 
