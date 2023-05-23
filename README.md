@@ -26,4 +26,4 @@ A própria humanidade amplia os conhecimentos da socidade por um todo.
 
 Exemplo pratico de um empresário 
 ---
-![image](https://github.com/leandroyoo/Estatisticaa/assets/94478634/f200a639-1025-491f-8d7f-7dd2494cb031)
+![image](https://github.com/leandroyoo/Estatisticaa/assets/94478634/c8d47168-23aa-491f-980e-a2ec12edf1f8)
