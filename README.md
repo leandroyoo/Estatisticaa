@@ -29,11 +29,26 @@ Exemplo pratico de um empresário
 ![image](https://github.com/leandroyoo/Estatisticaa/assets/94478634/c8d47168-23aa-491f-980e-a2ec12edf1f8)
 
 
+conclusao
+---
   Formulação da hipotese:linha de produção inificiente;
 
   Coleta de dados nas lâmpadas que saem da linha de produção;
 
   Dados observáveis: 63% das lâmpadas estão com defeitos.
+
+
+
+...
+
+
+objetivo principal 
+----
+![image](https://github.com/leandroyoo/Estatisticaa/assets/94478634/62b992b2-f8e9-4cab-8f66-e735d481d4b2)
+
+
+
+
 
 
 
