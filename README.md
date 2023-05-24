@@ -29,8 +29,8 @@ Exemplo pratico de um empresário
 ![image](https://github.com/leandroyoo/Estatisticaa/assets/94478634/c8d47168-23aa-491f-980e-a2ec12edf1f8)
 
 
-conclusao
----
+conclusao do exemplo:
+
   Formulação da hipotese:linha de produção inificiente;
 
   Coleta de dados nas lâmpadas que saem da linha de produção;
