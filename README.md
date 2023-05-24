@@ -42,8 +42,9 @@ conclusao do exemplo:
 ...
 
 
-objetivo principal 
+Objetivo principal e objetivo secundário
 ----
+
 ![image](https://github.com/leandroyoo/Estatisticaa/assets/94478634/62b992b2-f8e9-4cab-8f66-e735d481d4b2)
 
 
